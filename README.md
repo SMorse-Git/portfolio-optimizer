@@ -1,1 +1,1 @@
-Live Website : https://financial-portfolio-optimizer.streamlit.app/
+Live App: https://financial-portfolio-optimizer.streamlit.app/
